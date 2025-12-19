@@ -28,10 +28,13 @@ La première version du projet consiste à :
 
 ---
 
-## 📦 Prérequis
+## 📦 Installation
 Avant de lancer le projet, assurez-vous d’avoir installé :
-- Votre VM et installer Docker via ansible par le fichier : install-docker  
-  👉 https://www.docker.com/get-started
+- Ansible : apt install ansible
+- GIT : apt install git
+- clonnage du git dans le repertory /home/user/ansible_projet/ >> git clone https://github.com/OverCo11/docker.git
+  *cd docker
+  *ansible-playbook -i inventory deploy.yml
 
 Vérification de l’installation :
 ```bash
