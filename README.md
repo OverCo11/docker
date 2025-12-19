@@ -24,14 +24,13 @@ La première version du projet consiste à :
 
 ## 🛠️ Technologies utilisées
 - **Docker**
-- Système d’exploitation : Linux / Windows / macOS
-- Image Docker fournie par un autre groupe
+- Système d’exploitation : Debian 12
 
 ---
 
 ## 📦 Prérequis
 Avant de lancer le projet, assurez-vous d’avoir installé :
-- Docker  
+- Votre VM et installer Docker via ansible pars le fichier : install-docker  
   👉 https://www.docker.com/get-started
 
 Vérification de l’installation :
