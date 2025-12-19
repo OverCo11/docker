@@ -30,7 +30,7 @@ La première version du projet consiste à :
 
 ## 📦 Prérequis
 Avant de lancer le projet, assurez-vous d’avoir installé :
-- Votre VM et installer Docker via ansible pars le fichier : install-docker  
+- Votre VM et installer Docker via ansible par le fichier : install-docker  
   👉 https://www.docker.com/get-started
 
 Vérification de l’installation :
